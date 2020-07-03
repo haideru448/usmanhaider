@@ -1,0 +1,33 @@
+.mainabout
+{background-image: url("../Images,icons/milkyway.jpg");
+padding-bottom: 90px;
+background-repeat: no-repeat;
+background-size:cover;
+width:100%;
+
+padding-top: 20px;
+}
+.Education
+{position: relative;
+top:70px;
+margin:auto;
+width:30%;
+color:white;}
+.Educationheading
+{text-align: center;
+font-size: 40px;}
+.universitytext
+{text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-weight:1000;
+color:#557A95;}
+.highschooltext
+{text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-weight:1000;
+color:	#557A95;}
+.Schooltext
+{text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-weight:1000;
+color:	#557A95;}
